@@ -1,5 +1,7 @@
 Drowsiness Detection System
+
 Overview
+
 The Drowsiness Detection System is a real-time solution designed to enhance road safety by monitoring driver alertness and preventing accidents caused by fatigue. This project utilizes advanced computer vision techniques, including:
 
 Eye Aspect Ratio (EAR) Calculation for eye tracking.
